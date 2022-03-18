@@ -1,0 +1,321 @@
+2022-03-12 23:02:41 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-03-12 23:02:41 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-03-12 23:02:41 INFO  ProjectStartupHandler.setAutoscrolls(346) - Autoscrolls successfully set
+2022-03-12 23:02:41 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(589) - The session is not set in the property file.
+2022-03-12 23:02:41 INFO  ApacheHttpClient.login(250) - Waiting for server response.
+2022-03-12 23:02:41 INFO  ApacheHttpClient.login(254) - responseCode = 200
+2022-03-12 23:02:41 INFO  ApacheHttpClient.login(277) - JSESSIONID OK
+2022-03-12 23:02:42 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-03-12 23:02:42 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-03-12 23:02:42 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-03-12 23:16:33 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-12 23:16:34 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-12 23:16:52 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-12 23:16:53 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-12 23:17:40 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-12 23:17:40 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/plugins/JavaRushTasks/1.JavaSyntax/src/com
+2022-03-12 23:17:40 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/plugins/JavaRushTasks/1.JavaSyntax/src/com/javarush
+2022-03-12 23:17:40 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/plugins/JavaRushTasks/1.JavaSyntax/src/com/javarush/task
+2022-03-12 23:17:40 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/plugins/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro
+2022-03-12 23:17:40 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/plugins/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task02
+2022-03-12 23:17:40 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/plugins/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task02/task0212
+2022-03-12 23:17:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-12 23:17:59 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-12 23:18:18 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-12 23:18:18 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/plugins/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task02/task0214
+2022-03-12 23:19:49 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-12 23:19:49 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-12 23:20:33 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-12 23:20:34 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-12 23:20:49 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-12 23:20:49 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/plugins/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task02/task0209
+2022-03-12 23:21:22 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-03-12 23:21:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-12 23:21:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-12 23:21:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-12 23:21:22 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-03-12 23:21:48 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-03-12 23:21:48 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-03-12 23:21:48 INFO  ProjectStartupHandler.setAutoscrolls(346) - Autoscrolls successfully set
+2022-03-12 23:21:48 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-12 23:21:48 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-03-12 23:21:48 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-03-12 23:21:48 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-03-12 23:22:50 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-12 23:22:50 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-12 23:22:59 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-12 23:22:59 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/plugins/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task02/task0215
+2022-03-12 23:24:13 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-12 23:24:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-12 23:25:20 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-03-12 23:25:20 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-12 23:25:20 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-03-14 15:08:21 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-03-14 15:08:21 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-03-14 15:08:21 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-14 15:08:21 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-14 15:08:21 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-03-14 15:08:21 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-03-14 15:08:21 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-03-14 15:09:46 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-03-14 15:09:46 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-03-14 15:09:53 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 15:09:53 INFO  PluginProjectService.<init>(33) - PluginProjectService for JavaRushTasks initiated.
+2022-03-14 15:09:53 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-03-14 15:09:53 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-03-14 15:09:53 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-03-14 15:09:53 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-03-14 15:09:53 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-14 15:09:53 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-14 15:09:53 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-03-14 15:09:53 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-03-14 15:09:53 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-03-14 15:09:53 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-03-14 15:09:53 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-03-14 15:09:53 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-03-14 15:09:56 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 15:09:56 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 15:09:57 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-14 15:09:57 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-14 15:10:05 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-14 15:10:05 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-14 15:10:07 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-14 15:10:07 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-14 15:10:17 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-14 15:10:17 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-14 15:10:28 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-14 15:10:28 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-14 15:10:34 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-14 15:10:34 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-14 15:11:28 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 15:11:28 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 15:11:28 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-14 15:11:28 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-14 15:11:59 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-14 15:11:59 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-14 15:15:23 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 15:15:23 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 15:15:25 INFO  ApacheHttpClient.resetTask(324) - responseCode = 200
+2022-03-14 15:15:25 INFO  ApacheHttpClient.resetTask(324) - responseCode = 200
+2022-03-14 15:15:25 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-14 15:15:25 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-14 15:15:25 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-14 15:15:25 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-14 15:23:25 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 15:23:25 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 15:23:26 INFO  ApacheHttpClient.resetTask(324) - responseCode = 200
+2022-03-14 15:23:26 INFO  ApacheHttpClient.resetTask(324) - responseCode = 200
+2022-03-14 15:23:27 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-14 15:23:27 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-14 15:23:27 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-14 15:23:27 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-14 15:59:40 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 15:59:40 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 15:59:40 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-14 15:59:40 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-14 15:59:43 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-03-14 15:59:43 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-03-14 16:02:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 16:02:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 16:02:34 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 16:02:34 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 16:02:35 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-14 16:02:35 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-14 16:02:35 INFO  ApacheHttpClient.completed(32) - responseCode = 400
+2022-03-14 16:02:35 INFO  ApacheHttpClient.completed(32) - responseCode = 400
+2022-03-14 16:02:35 WARN  TaskCompleted.run(74) - You already completed this task: "Чтение и преобразование строк"
+com.homework.plugin.analytics.PluginWarningException: warning
+	at com.homework.plugin.callback.TaskCompleted.run(TaskCompleted.java:74)
+	at com.intellij.openapi.application.TransactionGuardImpl.runWithWritingAllowed(TransactionGuardImpl.java:214)
+	at com.intellij.openapi.application.TransactionGuardImpl.access$200(TransactionGuardImpl.java:21)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:196)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:805)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$invokeLater$4(ApplicationImpl.java:348)
+	at com.intellij.openapi.application.impl.FlushQueue.doRun(FlushQueue.java:82)
+	at com.intellij.openapi.application.impl.FlushQueue.runNextEvent(FlushQueue.java:131)
+	at com.intellij.openapi.application.impl.FlushQueue.flushNow(FlushQueue.java:47)
+	at com.intellij.openapi.application.impl.FlushQueue$FlushNow.run(FlushQueue.java:187)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:891)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:760)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:447)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:818)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:446)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:805)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:492)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2022-03-14 16:02:35 WARN  TaskCompleted.run(74) - You already completed this task: "Чтение и преобразование строк"
+com.homework.plugin.analytics.PluginWarningException: warning
+	at com.homework.plugin.callback.TaskCompleted.run(TaskCompleted.java:74)
+	at com.intellij.openapi.application.TransactionGuardImpl.runWithWritingAllowed(TransactionGuardImpl.java:214)
+	at com.intellij.openapi.application.TransactionGuardImpl.access$200(TransactionGuardImpl.java:21)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:196)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:805)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$invokeLater$4(ApplicationImpl.java:348)
+	at com.intellij.openapi.application.impl.FlushQueue.doRun(FlushQueue.java:82)
+	at com.intellij.openapi.application.impl.FlushQueue.runNextEvent(FlushQueue.java:131)
+	at com.intellij.openapi.application.impl.FlushQueue.flushNow(FlushQueue.java:47)
+	at com.intellij.openapi.application.impl.FlushQueue$FlushNow.run(FlushQueue.java:187)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:891)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:760)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:447)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:818)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:446)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:805)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:492)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2022-03-14 16:03:08 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 16:03:08 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 16:03:08 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-14 16:03:08 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-14 16:03:30 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 16:03:30 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 16:03:31 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-14 16:03:31 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-14 16:03:51 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-14 16:03:51 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-14 16:21:46 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 16:21:46 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-14 16:21:46 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-14 16:21:46 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-14 16:34:42 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-03-14 16:34:42 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-03-14 16:34:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-14 16:34:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-14 16:34:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-14 16:34:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-14 16:34:43 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-03-14 16:34:43 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-03-14 16:34:59 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-03-14 16:34:59 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-03-14 16:34:59 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-14 16:34:59 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-14 16:34:59 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-03-14 16:34:59 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-03-14 16:35:00 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-03-14 16:44:35 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-03-14 16:44:35 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-14 16:44:36 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-03-14 17:42:57 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-03-14 17:42:58 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-03-14 17:42:58 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-14 17:42:58 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-14 17:42:58 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-03-14 17:42:58 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-03-14 17:42:58 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-03-14 17:44:33 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-03-14 17:44:34 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-14 17:44:34 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-03-15 16:53:01 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-03-15 16:53:01 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-03-15 16:53:02 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-15 16:53:02 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-03-15 16:53:02 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-03-15 16:53:02 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-03-15 16:53:08 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-15 16:53:09 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 16:53:14 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 16:53:21 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 16:53:32 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 16:53:35 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 16:53:39 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 16:53:45 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-15 16:53:45 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/plugins/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task03
+2022-03-15 16:53:45 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/plugins/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task03/task0301
+2022-03-15 20:00:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-15 20:00:49 INFO  ApacheHttpClient.resetTask(324) - responseCode = 200
+2022-03-15 20:00:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-15 20:00:49 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-15 20:12:15 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-15 20:12:17 INFO  ApacheHttpClient.resetTask(324) - responseCode = 200
+2022-03-15 20:12:18 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-15 20:12:18 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-15 20:16:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-15 20:16:19 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-15 20:16:20 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-03-15 20:16:20 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-15 23:24:04 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-15 23:24:04 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 23:24:07 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/plugins/JavaRushTasks/lib
+2022-03-15 23:24:07 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-15 23:24:07 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-15 23:24:19 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 404
+2022-03-15 23:24:19 ERROR JavaFxDownloader.downloadJavaFx(151) - 
+java.lang.NullPointerException
+	at com.homework.plugin.JavaFxDownloader.downloadJavaFx(JavaFxDownloader.java:124)
+	at com.homework.plugin.JavaFxDownloader.run(JavaFxDownloader.java:41)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$2.run(CoreProgressManager.java:298)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.startTask(CoreProgressManager.java:436)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.startTask(ProgressManagerImpl.java:120)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcessWithProgressSynchronously$8(CoreProgressManager.java:542)
+	at com.intellij.openapi.progress.impl.ProgressRunner.lambda$new$0(ProgressRunner.java:83)
+	at com.intellij.openapi.progress.impl.ProgressRunner.lambda$submit$3(ProgressRunner.java:244)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:188)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$executeProcessUnderProgress$12(CoreProgressManager.java:624)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:698)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computeUnderProgress(CoreProgressManager.java:646)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:623)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:175)
+	at com.intellij.openapi.progress.impl.ProgressRunner.lambda$submit$4(ProgressRunner.java:244)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:668)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:665)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:665)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-03-15 23:24:19 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-15 23:24:19 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/plugins/JavaRushTasks/8.Games/src/com
+2022-03-15 23:24:19 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/plugins/JavaRushTasks/8.Games/src/com/javarush
+2022-03-15 23:24:19 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/plugins/JavaRushTasks/8.Games/src/com/javarush/games
+2022-03-15 23:24:19 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/plugins/JavaRushTasks/8.Games/src/com/javarush/games/minesweeper
+2022-03-15 23:24:24 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-15 23:24:24 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-15 23:24:31 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-15 23:24:31 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/plugins/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task03/task0302
+2022-03-18 18:21:56 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-03-18 18:21:57 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-18 18:21:57 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-18 18:21:57 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-18 18:21:57 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
