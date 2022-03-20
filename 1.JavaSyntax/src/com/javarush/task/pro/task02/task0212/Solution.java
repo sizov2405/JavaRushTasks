@@ -18,5 +18,6 @@ public class Solution {
         System.out.println ("Две пачки хлеба и будет)");
         System.out.println ("На хлебе поднимают только натуралы в интернете");
 
+        System.out.println ("Еще и присед не забудь");
     }
 }
