@@ -15,5 +15,6 @@ public class Solution {
         System.out.println("Винни Пух".toUpperCase());
         System.out.println((caps + "they know I mean business").toUpperCase());
         System.out.println("я пожму 200");
+        System.out.println ("Две пачки хлеба и будет)))");
     }
 }
